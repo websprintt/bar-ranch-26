@@ -1,0 +1,6 @@
+{
+  "name": "26 Bar Ranch",
+  "description": "Premium landing page for 26 Bar Ranch, an authentic western-theme tapas bar restaurant in Ciudad Real, Castile-La Mancha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
